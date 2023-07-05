@@ -1,0 +1,10 @@
+EncoreUneAutreBD
+exit
+exit
+mongo
+mongosh
+exit
+mongosh
+exit
+mongosh
+exit
