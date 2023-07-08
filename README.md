@@ -8,14 +8,14 @@
 ### SECTION 1 ETAPE 1
 ---
 
-capture d'ecran des version des composants docker engine et docker version<br>
+capture d'ecran des commandes pour obtenir les versions des composants docker engine et docker compose et le resultat de ces commandes<br>
 
 ![version docker engine](./capture/engine&compose_version.png)
 
 
 ### SECTION 1 ETAPE 2
 ---
-commande pour la cration d'un reseau
+commande pour la creation d'un reseau
 ```bash
 docker network create mon_reseau
 ```
@@ -33,3 +33,13 @@ capture d'ecran reseau prive virtuel<br>
 
 ![reseau prive virtuel](./capture/verif_reseau.png)
 
+capture d'ecran de l'utilisateur adminmongo
+
+![adminmongo](./capture/log_adminmongo.png)
+
+### REFERENCES
+---
+
+https://hub.docker.com/_/drupal<br>
+https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base <br>
+https://manpages.ubuntu.com/manpages/xenial/man1/docker.1.html
